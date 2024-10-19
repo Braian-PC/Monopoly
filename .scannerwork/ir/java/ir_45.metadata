@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.Player#buyProperty(Ledu/ncsu/monopoly/Cell;I)V
+b505b3fcf47e3cd5d057c2cea5de96ca
+java.lang.Integer#instance-init#
+edu.ncsu.monopoly.Player#getPropertyNumberForColor(Ljava/lang/String;)I
+java.lang.Integer#<init>(I)V
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+getColorGroup edu.ncsu.monopoly.PropertyCell#getColorGroup()Ljava/lang/String;
+setOwner edu.ncsu.monopoly.Cell#setOwner(Ledu/ncsu/monopoly/Player;)V
+put java.util.Hashtable#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+setMoney edu.ncsu.monopoly.Player#setMoney(I)V

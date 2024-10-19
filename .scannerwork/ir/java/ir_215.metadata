@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.LoseMoneyCardTest#testLoseMoneyCardAction()V
+218feea9d9f10157c6d84d8702b61ce7
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+drawCCCard edu.ncsu.monopoly.GameMaster#drawCCCard()Ledu/ncsu/monopoly/Card;
+applyAction edu.ncsu.monopoly.Card#applyAction()V
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;

@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.Player#getOutOfJail()V
+ebb3a096c2b96fbd93d42cbbb2083e51
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+isBankrupt edu.ncsu.monopoly.Player#isBankrupt()Z
+exchangeProperty edu.ncsu.monopoly.Player#exchangeProperty(Ledu/ncsu/monopoly/Player;)V
+updateGUI edu.ncsu.monopoly.GameMaster#updateGUI()V

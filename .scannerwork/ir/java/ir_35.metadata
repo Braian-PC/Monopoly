@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.GameMasterTest#testInit()V
+5a9ae9184daa0153cacf92c1e207ac8b
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+getInitAmountOfMoney edu.ncsu.monopoly.GameMaster#getInitAmountOfMoney()I

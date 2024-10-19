@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.MainWindow#enablePurchaseBtn(I)V
+ac832c96520d4fb0ca78027af34b21e8
+==
+setPurchasePropertyEnabled edu.ncsu.monopoly.gui.PlayerPanel#setPurchasePropertyEnabled(Z)V

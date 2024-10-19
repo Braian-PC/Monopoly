@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.MoneyCard#applyAction()V
+2c83a0e66785941d94f786331bff54d3
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+setMoney edu.ncsu.monopoly.Player#setMoney(I)V

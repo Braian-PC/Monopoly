@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.JailCard#applyAction()V
+cfc85f7e1453c5c78ddf2b91797462c0
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+sendToJail edu.ncsu.monopoly.GameMaster#sendToJail(Ledu/ncsu/monopoly/Player;)V
+queryCell edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;

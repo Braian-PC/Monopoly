@@ -1,0 +1,10 @@
+edu.ncsu.monopoly.RailRoadCellTest#testPurchaseRailroad()V
+ac4a6d0529b193dbd5bc8be93f14742b
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+queryCellIndex edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)I
+purchase edu.ncsu.monopoly.Player#purchase()V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V
+numberOfRR edu.ncsu.monopoly.Player#numberOfRR()I

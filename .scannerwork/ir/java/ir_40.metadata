@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.GameMasterTest#testButtonPurchasePropertyClicked()V
+58dbc84dae5c0d5ab44328ce636b41de
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+btnPurchasePropertyClicked edu.ncsu.monopoly.GameMaster#btnPurchasePropertyClicked()V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getGUI edu.ncsu.monopoly.GameMaster#getGUI()Ledu/ncsu/monopoly/MonopolyGUI;
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V
+getAllProperties edu.ncsu.monopoly.Player#getAllProperties()[Ledu/ncsu/monopoly/Cell;

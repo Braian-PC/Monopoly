@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.GameMaster#sendToJail(Ledu/ncsu/monopoly/Player;)V
+056eb9f357bb2efa8bb54d4fb155ad27
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+setPosition edu.ncsu.monopoly.Player#setPosition(Ledu/ncsu/monopoly/Cell;)V
+setInJail edu.ncsu.monopoly.Player#setInJail(Z)V
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+queryCellIndex edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)I
+queryCell edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getPlayerIndex edu.ncsu.monopoly.GameMaster#getPlayerIndex(Ledu/ncsu/monopoly/Player;)I
+movePlayer edu.ncsu.monopoly.MonopolyGUI#movePlayer(III)V

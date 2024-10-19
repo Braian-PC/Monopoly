@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#setPurchasePropertyEnabled(Z)V
+e359498a80fb63d6cd0e54f60ddc0cb0
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setPurchasePropertyEnabled edu.ncsu.monopoly.gui.PlayerPanel#setPurchasePropertyEnabled(Z)V
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I

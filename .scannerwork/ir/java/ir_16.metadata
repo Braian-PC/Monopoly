@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.GainMoneyCardTest#testGainMoneyCardUI()V
+89db6425e92b9c3a0dd209980d220d8d
+==
+isEndTurnButtonEnabled edu.ncsu.monopoly.MonopolyGUI#isEndTurnButtonEnabled()Z
+btnDrawCardClicked edu.ncsu.monopoly.GameMaster#btnDrawCardClicked()Ledu/ncsu/monopoly/Card;
+isDrawCardButtonEnabled edu.ncsu.monopoly.MonopolyGUI#isDrawCardButtonEnabled()Z
+getGUI edu.ncsu.monopoly.GameMaster#getGUI()Ledu/ncsu/monopoly/MonopolyGUI;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V

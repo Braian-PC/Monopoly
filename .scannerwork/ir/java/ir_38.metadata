@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GameMasterTest#testTurn()V
+92aba323b14e52d7dcad77c793cbcd6c
+==
+switchTurn edu.ncsu.monopoly.GameMaster#switchTurn()V
+getTurn edu.ncsu.monopoly.GameMaster#getTurn()I

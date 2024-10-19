@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.gui.GUITradeDialog#buildSellersCombo()V
+f7379ab1d5d977a125448244974a76fc
+edu.ncsu.monopoly.gui.GUITradeDialog#updatePropertiesCombo(Ledu/ncsu/monopoly/Player;)V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+addItem javax.swing.JComboBox#addItem(Ljava/lang/Object;)V
+getSellerList edu.ncsu.monopoly.GameMaster#getSellerList()Ljava/util/ArrayList;
+get java.util.List#get(I)Ljava/lang/Object;
+iterator java.util.List#iterator()Ljava/util/Iterator;
+hasNext java.util.Iterator#hasNext()Z
+next java.util.Iterator#next()Ljava/lang/Object;
+size java.util.List#size()I

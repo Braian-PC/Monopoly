@@ -1,0 +1,9 @@
+edu.ncsu.monopoly.GameMaster#btnTradeClicked()V
+9538328f14e55b0f63ad6686bdbbce54
+==
+completeTrade edu.ncsu.monopoly.GameMaster#completeTrade(Ledu/ncsu/monopoly/TradeDeal;)V
+openTradeDialog edu.ncsu.monopoly.MonopolyGUI#openTradeDialog()Ledu/ncsu/monopoly/TradeDialog;
+getTradeDeal edu.ncsu.monopoly.TradeDialog#getTradeDeal()Ledu/ncsu/monopoly/TradeDeal;
+openRespondDialog edu.ncsu.monopoly.MonopolyGUI#openRespondDialog(Ledu/ncsu/monopoly/TradeDeal;)Ledu/ncsu/monopoly/RespondDialog;
+getResponse edu.ncsu.monopoly.RespondDialog#getResponse()Z
+updateGUI edu.ncsu.monopoly.GameMaster#updateGUI()V

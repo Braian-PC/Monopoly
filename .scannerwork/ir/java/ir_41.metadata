@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.GameMasterTest#testButtonRollDiceClicked()V
+8e5b0a2065ae736d4c0845a6fe5cd959
+==
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I
+reset edu.ncsu.monopoly.GameMaster#reset()V
+getGUI edu.ncsu.monopoly.GameMaster#getGUI()Ledu/ncsu/monopoly/MonopolyGUI;
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;
+btnRollDiceClicked edu.ncsu.monopoly.GameMaster#btnRollDiceClicked()V

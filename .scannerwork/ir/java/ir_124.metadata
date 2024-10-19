@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)I
+28fa5ad0d6e0cf2e16db8b2df14f6d3c
+java.lang.Integer#intValue()I
+==
+get java.util.Hashtable#get(Ljava/lang/Object;)Ljava/lang/Object;

@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.GameMaster#switchTurn()V
+414cf179ad0e2e7ea45d13f73c16227c
+==
+getNumberOfPlayers edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()I
+setGetOutOfJailEnabled edu.ncsu.monopoly.MonopolyGUI#setGetOutOfJailEnabled(Z)V
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+enablePlayerTurn edu.ncsu.monopoly.MonopolyGUI#enablePlayerTurn(I)V
+canBuyHouse edu.ncsu.monopoly.Player#canBuyHouse()Z
+setTradeEnabled edu.ncsu.monopoly.MonopolyGUI#setTradeEnabled(IZ)V
+isInJail edu.ncsu.monopoly.Player#isInJail()Z
+setBuyHouseEnabled edu.ncsu.monopoly.MonopolyGUI#setBuyHouseEnabled(Z)V

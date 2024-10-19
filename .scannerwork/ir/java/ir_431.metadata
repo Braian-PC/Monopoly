@@ -1,0 +1,13 @@
+edu.ncsu.monopoly.PlayerTest#testPurchaseProperty()V
+f1e1e0ba2dcf78b20b906ac5794dab78
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+purchase edu.ncsu.monopoly.Player#purchase()V
+queryCell edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+setNumberOfPlayers edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+getProperty edu.ncsu.monopoly.Player#getProperty(I)Ledu/ncsu/monopoly/PropertyCell;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V
+getOwner edu.ncsu.monopoly.Cell#getOwner()Ledu/ncsu/monopoly/Player;

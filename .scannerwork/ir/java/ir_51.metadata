@@ -1,0 +1,17 @@
+edu.ncsu.monopoly.Player#getMonopolies()[Ljava/lang/String;
+e22768f2d9f8e7002287c9a55229a348
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.Integer#intValue()I
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+keys java.util.Hashtable#keys()Ljava/util/Enumeration;
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+nextElement java.util.Enumeration#nextElement()Ljava/lang/Object;
+get java.util.Hashtable#get(Ljava/lang/Object;)Ljava/lang/Object;
+toArray java.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;
+hasMoreElements java.util.Enumeration#hasMoreElements()Z
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+size java.util.ArrayList#size()I
+getPropertyNumberForColor edu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)I

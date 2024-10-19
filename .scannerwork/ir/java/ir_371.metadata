@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.GameMaster#getPlayerIndex(Ledu/ncsu/monopoly/Player;)I
+166f18dc612de78b316ccf55446debe2
+==
+indexOf java.util.ArrayList#indexOf(Ljava/lang/Object;)I

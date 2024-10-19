@@ -1,0 +1,13 @@
+edu.ncsu.monopoly.GameMasterTest#testButtonGetOutOfJailClicked()V
+aefc9b36a5518a598979664c5296a03c
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+isGetOutOfJailButtonEnabled edu.ncsu.monopoly.MonopolyGUI#isGetOutOfJailButtonEnabled()Z
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+btnEndTurnClicked edu.ncsu.monopoly.GameMaster#btnEndTurnClicked()V
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+getGUI edu.ncsu.monopoly.GameMaster#getGUI()Ledu/ncsu/monopoly/MonopolyGUI;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V
+btnGetOutOfJailClicked edu.ncsu.monopoly.GameMaster#btnGetOutOfJailClicked()V
+isInJail edu.ncsu.monopoly.Player#isInJail()Z

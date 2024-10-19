@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.gui.MainWindow#getDiceRoll()[I
+28516bbf88ba8330a967754bd950d09f
+edu.ncsu.monopoly.gui.TestDiceRollDialog#instance-init#
+edu.ncsu.monopoly.gui.TestDiceRollDialog#<init>(Ljava/awt/Frame;)V
+==
+show java.awt.Dialog#show()V
+getDiceRoll edu.ncsu.monopoly.gui.TestDiceRollDialog#getDiceRoll()[I

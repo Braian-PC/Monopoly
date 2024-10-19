@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.UtilDiceRoll#showDialog()I
+e1b5e2256320b8e1f151ea7747c82fa0
+edu.ncsu.monopoly.gui.UtilDiceRoll#<init>()V
+edu.ncsu.monopoly.gui.UtilDiceRoll#instance-init#
+==
+show java.awt.Dialog#show()V

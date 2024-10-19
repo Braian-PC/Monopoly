@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.gui.MainWindow#openRespondDialog(Ledu/ncsu/monopoly/TradeDeal;)Ledu/ncsu/monopoly/RespondDialog;
+4e65605d4beef3e9cabed1c01fc56670
+edu.ncsu.monopoly.gui.GUIRespondDialog#<init>()V
+edu.ncsu.monopoly.gui.GUIRespondDialog#instance-init#
+==
+show java.awt.Dialog#show()V
+setDeal edu.ncsu.monopoly.gui.GUIRespondDialog#setDeal(Ledu/ncsu/monopoly/TradeDeal;)V

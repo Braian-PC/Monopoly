@@ -1,0 +1,9 @@
+edu.ncsu.monopoly.GoToJailCardTest#testJailCardAction()V
+bf7489247ed96473cb6202e46b81c2b1
+==
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+drawCCCard edu.ncsu.monopoly.GameMaster#drawCCCard()Ledu/ncsu/monopoly/Card;
+applyAction edu.ncsu.monopoly.Card#applyAction()V
+queryCell edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;

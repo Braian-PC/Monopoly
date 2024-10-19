@@ -1,0 +1,10 @@
+edu.ncsu.monopoly.GameMasterTest#testReset()V
+bb8a7da68305bb22dedfbc0a67897781
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+getNumberOfPlayers edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()I
+getTurn edu.ncsu.monopoly.GameMaster#getTurn()I
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+reset edu.ncsu.monopoly.GameMaster#reset()V
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V

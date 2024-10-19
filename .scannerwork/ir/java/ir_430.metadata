@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.PlayerTest#setUp()V
+9c2c271a2bb2e443d9f6a147a46de2cf
+edu.ncsu.monopoly.MockGUI#<init>()V
+edu.ncsu.monopoly.SimpleGameBoard#instance-init#
+edu.ncsu.monopoly.MockGUI#instance-init#
+edu.ncsu.monopoly.SimpleGameBoard#<init>()V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setTestMode edu.ncsu.monopoly.GameMaster#setTestMode(Z)V
+setGameBoard edu.ncsu.monopoly.GameMaster#setGameBoard(Ledu/ncsu/monopoly/GameBoard;)V
+reset edu.ncsu.monopoly.GameMaster#reset()V
+setGUI edu.ncsu.monopoly.GameMaster#setGUI(Ledu/ncsu/monopoly/MonopolyGUI;)V

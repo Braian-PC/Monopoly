@@ -1,0 +1,10 @@
+edu.ncsu.monopoly.UtilityCell#playAction()V
+9e22909a5790706218e3619f1f9370d3
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+getUtilDiceRoll edu.ncsu.monopoly.GameMaster#getUtilDiceRoll()I
+payRentTo edu.ncsu.monopoly.Player#payRentTo(Ledu/ncsu/monopoly/Player;I)V
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+utilRollDice edu.ncsu.monopoly.GameMaster#utilRollDice()V
+getRent edu.ncsu.monopoly.UtilityCell#getRent(I)I
+isAvailable edu.ncsu.monopoly.Cell#isAvailable()Z

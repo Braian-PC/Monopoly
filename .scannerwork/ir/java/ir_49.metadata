@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.Player#getAllProperties()[Ledu/ncsu/monopoly/Cell;
+9174ed3c190d446ab650e8285464874c
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+addAll java.util.ArrayList#addAll(Ljava/util/Collection;)Z
+toArray java.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;
+size java.util.ArrayList#size()I

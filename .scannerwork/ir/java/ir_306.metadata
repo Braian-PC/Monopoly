@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#isEndTurnButtonEnabled()Z
+d9808032562f909a176e638c03557b4c
+==
+isEnabled java.awt.Component#isEnabled()Z

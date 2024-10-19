@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#setEndTurnEnabled(Z)V
+7ddb4d4216be67dc68f2edab357dc646
+==
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V

@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#startGame()V
+0d7fb93ed3f2e413d5c0ea91e748bc71
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+movePlayer edu.ncsu.monopoly.gui.MainWindow#movePlayer(III)V
+getNumberOfPlayers edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()I

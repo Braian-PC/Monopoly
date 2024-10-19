@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.PlayerTest#testResetProperty()V
+09e6e9d1c7ff8117c07a86e0a839fb7b
+==
+purchase edu.ncsu.monopoly.Player#purchase()V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+setNumberOfPlayers edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V
+getAllProperties edu.ncsu.monopoly.Player#getAllProperties()[Ledu/ncsu/monopoly/Cell;
+resetProperty edu.ncsu.monopoly.Player#resetProperty()V

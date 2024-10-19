@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.gui.GUITradeDialog#updatePropertiesCombo(Ledu/ncsu/monopoly/Player;)V
+e1335c308aced8bbc7bc8aaba08688c7
+==
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V
+addItem javax.swing.JComboBox#addItem(Ljava/lang/Object;)V
+removeAllItems javax.swing.JComboBox#removeAllItems()V
+getAllProperties edu.ncsu.monopoly.Player#getAllProperties()[Ledu/ncsu/monopoly/Cell;

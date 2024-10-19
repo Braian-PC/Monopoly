@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.GameMaster#btnDrawCardClicked()Ledu/ncsu/monopoly/Card;
+cc0dc4b2d9e4c6b995869bd970a001d6
+==
+setDrawCardEnabled edu.ncsu.monopoly.MonopolyGUI#setDrawCardEnabled(Z)V
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+setEndTurnEnabled edu.ncsu.monopoly.MonopolyGUI#setEndTurnEnabled(Z)V
+applyAction edu.ncsu.monopoly.Card#applyAction()V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+drawChanceCard edu.ncsu.monopoly.GameBoard#drawChanceCard()Ledu/ncsu/monopoly/Card;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+drawCCCard edu.ncsu.monopoly.GameBoard#drawCCCard()Ledu/ncsu/monopoly/Card;
+getType edu.ncsu.monopoly.CardCell#getType()I

@@ -1,0 +1,31 @@
+
+)edu.ncsu.monopoly.RailRoadCell#getRent()IX
+NC:/Users/Braian/git/Monopoly/src/main/java/edu/ncsu/monopoly/RailRoadCell.java ("1*Ü
+1	 (}
+{
+2 (7
+%0edu.ncsu.monopoly.Player"__id*I
+
+__unknown_file (-*+ 
+edu.ncsu.monopoly.RailRoadCell"
+ownerŒ‰
+2 (D	
+%1int"&edu.ncsu.monopoly.Player#numberOfRR()I*<
+
+__unknown_file ( 
+
+%0edu.ncsu.monopoly.Player2numberOfRR()ª
+§
+& (I
+%2double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math* 
+
+__unknown_file (2*"
+
+__unknown_file (
+"""
+ (J
+""B" 
+edu.ncsu.monopoly.RailRoadCellHX

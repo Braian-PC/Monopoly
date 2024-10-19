@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GameboardTest#testQueryCellIndex()V
+e2055cc49913e274936ee36d90f06368
+==
+queryCellIndex edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)I
+addCell edu.ncsu.monopoly.GameBoard#addCell(Ledu/ncsu/monopoly/Cell;)V

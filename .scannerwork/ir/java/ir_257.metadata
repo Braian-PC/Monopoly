@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#isDrawCardButtonEnabled()Z
+ca2b2d0c9e2f98ecdb63c83beddbf86b
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+isDrawCardButtonEnabled edu.ncsu.monopoly.gui.PlayerPanel#isDrawCardButtonEnabled()Z
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I

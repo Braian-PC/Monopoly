@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.Player#purchaseHouse(Ljava/lang/String;I)V
+d8e2a8072acf198c4f77c32f2a299efc
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+getNumHouses edu.ncsu.monopoly.PropertyCell#getNumHouses()I
+getPropertiesInMonopoly edu.ncsu.monopoly.GameBoard#getPropertiesInMonopoly(Ljava/lang/String;)[Ledu/ncsu/monopoly/PropertyCell;
+getHousePrice edu.ncsu.monopoly.PropertyCell#getHousePrice()I
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+updateGUI edu.ncsu.monopoly.GameMaster#updateGUI()V
+setNumHouses edu.ncsu.monopoly.PropertyCell#setNumHouses(I)V
+setMoney edu.ncsu.monopoly.Player#setMoney(I)V

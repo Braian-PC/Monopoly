@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.UtilDiceRoll#instance-init#
+d8c76c57e2cb35865c4986504f005456
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+javax.swing.JLabel#instance-init#
+javax.swing.JLabel#<init>()V
+javax.swing.JButton#instance-init#

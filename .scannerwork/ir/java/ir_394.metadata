@@ -1,0 +1,13 @@
+edu.ncsu.monopoly.gui.InfoPanel#displayInfo()V
+1a6682d35d38186317d81f0c825fedd1
+java.awt.GridLayout#<init>(II)V
+edu.ncsu.monopoly.gui.PlayerPanel#<init>(Ledu/ncsu/monopoly/Player;)V
+edu.ncsu.monopoly.gui.PlayerPanel#instance-init#
+java.awt.GridLayout#instance-init#
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+displayInfo edu.ncsu.monopoly.gui.PlayerPanel#displayInfo()V
+getNumberOfPlayers edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()I
+setLayout java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;

@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.Player#purchaseProperty(Ledu/ncsu/monopoly/PropertyCell;)V
+2cecdd829f3d620192523852b0a08139
+==
+buyProperty edu.ncsu.monopoly.Player#buyProperty(Ledu/ncsu/monopoly/Cell;I)V
+getPrice edu.ncsu.monopoly.PropertyCell#getPrice()I

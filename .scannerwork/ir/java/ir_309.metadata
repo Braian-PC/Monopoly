@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#isRollDiceButtonEnabled()Z
+d827c1e175ed83b3e45157fa50019bbc
+==
+isEnabled java.awt.Component#isEnabled()Z

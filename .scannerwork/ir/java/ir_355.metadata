@@ -1,0 +1,18 @@
+edu.ncsu.monopoly.GameMaster#btnEndTurnClicked()V
+d352288d333ead4024ff8ce55270b44f
+edu.ncsu.monopoly.GameMaster#setAllButtonEnabled(Z)V
+==
+setDrawCardEnabled edu.ncsu.monopoly.MonopolyGUI#setDrawCardEnabled(Z)V
+isBankrupt edu.ncsu.monopoly.Player#isBankrupt()Z
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I
+setTradeEnabled edu.ncsu.monopoly.MonopolyGUI#setTradeEnabled(IZ)V
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+setEndTurnEnabled edu.ncsu.monopoly.MonopolyGUI#setEndTurnEnabled(Z)V
+setPurchasePropertyEnabled edu.ncsu.monopoly.MonopolyGUI#setPurchasePropertyEnabled(Z)V
+setRollDiceEnabled edu.ncsu.monopoly.MonopolyGUI#setRollDiceEnabled(Z)V
+switchTurn edu.ncsu.monopoly.GameMaster#switchTurn()V
+playAction edu.ncsu.monopoly.Cell#playAction()V
+setGetOutOfJailEnabled edu.ncsu.monopoly.MonopolyGUI#setGetOutOfJailEnabled(Z)V
+updateGUI edu.ncsu.monopoly.GameMaster#updateGUI()V
+setBuyHouseEnabled edu.ncsu.monopoly.MonopolyGUI#setBuyHouseEnabled(Z)V

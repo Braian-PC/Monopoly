@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.gui.PlayerPanel#displayInfo()V
+146017901110801bdbadd9f342bade5e
+java.lang.StringBuffer#<init>()V
+java.lang.StringBuffer#toString()Ljava/lang/String;
+java.lang.StringBuffer#instance-init#
+java.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+setText javax.swing.JLabel#setText(Ljava/lang/String;)V
+getName edu.ncsu.monopoly.Player#getName()Ljava/lang/String;
+setText javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V
+getAllProperties edu.ncsu.monopoly.Player#getAllProperties()[Ledu/ncsu/monopoly/Cell;

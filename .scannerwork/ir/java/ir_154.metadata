@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.MockTradeDialog#getTradeDeal()Ledu/ncsu/monopoly/TradeDeal;
+470ad95beb4b9848322a44d29c5b5796
+edu.ncsu.monopoly.TradeDeal#instance-init#
+edu.ncsu.monopoly.TradeDeal#<init>()V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setAmount edu.ncsu.monopoly.TradeDeal#setAmount(I)V
+toString edu.ncsu.monopoly.Cell#toString()Ljava/lang/String;
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+setSellerIndex edu.ncsu.monopoly.TradeDeal#setSellerIndex(I)V
+setPropertyName edu.ncsu.monopoly.TradeDeal#setPropertyName(Ljava/lang/String;)V
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;

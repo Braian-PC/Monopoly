@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.CCCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
+d38dbcbee5b072298fcc8c09a105d969
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;

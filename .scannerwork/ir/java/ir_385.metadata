@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+04cc0cb4ab904abc3a7e11ec4bb6acf1
+edu.ncsu.monopoly.Player#<init>()V
+edu.ncsu.monopoly.Player#instance-init#
+==
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+clear java.util.ArrayList#clear()V
+setMoney edu.ncsu.monopoly.Player#setMoney(I)V

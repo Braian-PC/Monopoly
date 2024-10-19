@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.GUICell#removePlayer(I)V
+39c07e47f7f378306c1b076a91f36e77
+==
+setText javax.swing.JLabel#setText(Ljava/lang/String;)V
+repaint java.awt.Component#repaint()V
+setOpaque javax.swing.JComponent#setOpaque(Z)V

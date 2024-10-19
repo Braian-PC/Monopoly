@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.TradeDeal#makeMessage()Ljava/lang/String;
+ad5f521d1c43bb3fbb7434765d7053e2
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;

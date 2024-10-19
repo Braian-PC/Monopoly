@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.CellInfoFormatterTest#testGoCellTest()V
+13929eef207b89eec0d2af3dbe90b9b6
+edu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
+edu.ncsu.monopoly.GoCell#instance-init#
+edu.ncsu.monopoly.GoCell#<init>()V

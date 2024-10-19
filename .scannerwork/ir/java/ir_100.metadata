@@ -1,0 +1,14 @@
+edu.ncsu.monopoly.gui.PropertyCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
+ec04e6b5dc394b7b49a4590e8a0cc9be
+java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;
+java.lang.StringBuffer#<init>()V
+java.lang.StringBuffer#toString()Ljava/lang/String;
+java.lang.StringBuffer#instance-init#
+java.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+getNumHouses edu.ncsu.monopoly.PropertyCell#getNumHouses()I
+getName edu.ncsu.monopoly.Player#getName()Ljava/lang/String;
+getPrice edu.ncsu.monopoly.PropertyCell#getPrice()I
+getColorGroup edu.ncsu.monopoly.PropertyCell#getColorGroup()Ljava/lang/String;
+getOwner edu.ncsu.monopoly.Cell#getOwner()Ledu/ncsu/monopoly/Player;

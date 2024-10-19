@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.GameMaster#playerMoved(Ledu/ncsu/monopoly/Player;)V
+9fab71db20e4f9ec7a189474185170f5
+==
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+setDrawCardEnabled edu.ncsu.monopoly.MonopolyGUI#setDrawCardEnabled(Z)V
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+enableEndTurnBtn edu.ncsu.monopoly.MonopolyGUI#enableEndTurnBtn(I)V
+getPrice edu.ncsu.monopoly.Cell#getPrice()I
+enablePurchaseBtn edu.ncsu.monopoly.MonopolyGUI#enablePurchaseBtn(I)V
+setTradeEnabled edu.ncsu.monopoly.MonopolyGUI#setTradeEnabled(IZ)V
+getPlayerIndex edu.ncsu.monopoly.GameMaster#getPlayerIndex(Ledu/ncsu/monopoly/Player;)I
+isAvailable edu.ncsu.monopoly.Cell#isAvailable()Z

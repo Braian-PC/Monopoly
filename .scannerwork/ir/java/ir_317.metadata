@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#setTradeEnabled(Z)V
+6db0f1adc1baf50825746f11fe1b08e7
+==
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V

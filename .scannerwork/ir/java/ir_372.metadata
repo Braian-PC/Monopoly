@@ -1,0 +1,10 @@
+edu.ncsu.monopoly.GameMaster#getSellerList()Ljava/util/ArrayList;
+eac5fb8737a74fefa4afe164d4b617c1
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+iterator java.util.ArrayList#iterator()Ljava/util/Iterator;
+hasNext java.util.Iterator#hasNext()Z
+next java.util.Iterator#next()Ljava/lang/Object;

@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#setEndTurnEnabled(Z)V
+911f9dd4790e89902e6398a99cb35a11
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setEndTurnEnabled edu.ncsu.monopoly.gui.PlayerPanel#setEndTurnEnabled(Z)V
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I

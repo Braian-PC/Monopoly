@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#openTradeDialog()Ledu/ncsu/monopoly/TradeDialog;
+4ab2c195c1f9a6fc9648984d5e9218a3
+edu.ncsu.monopoly.gui.GUITradeDialog#<init>(Ljava/awt/Frame;)V
+edu.ncsu.monopoly.gui.GUITradeDialog#instance-init#
+==
+show java.awt.Dialog#show()V

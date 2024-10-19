@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.GameMaster#completeTrade(Ledu/ncsu/monopoly/TradeDeal;)V
+16bae838e9444e71c0f2d9f840f09fe8
+==
+getPropertyName edu.ncsu.monopoly.TradeDeal#getPropertyName()Ljava/lang/String;
+buyProperty edu.ncsu.monopoly.Player#buyProperty(Ledu/ncsu/monopoly/Cell;I)V
+queryCell edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
+sellProperty edu.ncsu.monopoly.Player#sellProperty(Ledu/ncsu/monopoly/Cell;I)V
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getAmount edu.ncsu.monopoly.TradeDeal#getAmount()I
+getPlayerIndex edu.ncsu.monopoly.TradeDeal#getPlayerIndex()I

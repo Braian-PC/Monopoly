@@ -1,0 +1,9 @@
+edu.ncsu.monopoly.gui.GUICell#addPlayer(I)V
+c38b9e6350c59a23ae861387ae2982e7
+java.lang.String#substring(II)Ljava/lang/String;
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setText javax.swing.JLabel#setText(Ljava/lang/String;)V
+getName edu.ncsu.monopoly.Player#getName()Ljava/lang/String;
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+setOpaque javax.swing.JComponent#setOpaque(Z)V

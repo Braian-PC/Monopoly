@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.gui.GUIRespondDialog#setDeal(Ledu/ncsu/monopoly/TradeDeal;)V
+83f8214a3669ccd93c6fb9519d14cfd0
+==
+makeMessage edu.ncsu.monopoly.TradeDeal#makeMessage()Ljava/lang/String;
+setText javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V

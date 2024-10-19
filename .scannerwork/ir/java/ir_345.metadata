@@ -1,0 +1,12 @@
+edu.ncsu.monopoly.MovePlayerCard#applyAction()V
+ae6e5b91ac93f1f56bcf8cdd717e9553
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+getCellNumber edu.ncsu.monopoly.GameBoard#getCellNumber()I
+getPosition edu.ncsu.monopoly.Player#getPosition()Ledu/ncsu/monopoly/Cell;
+queryCellIndex edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)I
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(Ledu/ncsu/monopoly/Player;I)V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+println java.io.PrintStream#println(I)V

@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GoCell#<init>()V
+7eb63dbc8af39bd2a6835920ea93dc30
+==
+setName edu.ncsu.monopoly.Cell#setName(Ljava/lang/String;)V
+setAvailable edu.ncsu.monopoly.Cell#setAvailable(Z)V

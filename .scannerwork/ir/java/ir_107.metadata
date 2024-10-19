@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.PropertyCell#getRent()I
+bade690e66c454a02d0bd4b6b24447d3
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getMonopolies edu.ncsu.monopoly.Player#getMonopolies()[Ljava/lang/String;

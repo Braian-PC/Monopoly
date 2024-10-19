@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
+85388a01c3ee350bc696d7d175c13bf4
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+get java.util.Hashtable#get(Ljava/lang/Object;)Ljava/lang/Object;
+format edu.ncsu.monopoly.gui.CellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;

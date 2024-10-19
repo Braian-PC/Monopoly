@@ -1,0 +1,9 @@
+edu.ncsu.monopoly.GameboardTest#testPropertyNumberForColor()V
+3fb05f0bf8d2baa1ffdadccaf6f90ff8
+edu.ncsu.monopoly.PropertyCell#instance-init#
+edu.ncsu.monopoly.PropertyCell#<init>()V
+==
+addCell edu.ncsu.monopoly.GameBoard#addCell(Ledu/ncsu/monopoly/PropertyCell;)V
+setName edu.ncsu.monopoly.Cell#setName(Ljava/lang/String;)V
+setColorGroup edu.ncsu.monopoly.PropertyCell#setColorGroup(Ljava/lang/String;)V
+getPropertyNumberForColor edu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)I

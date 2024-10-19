@@ -1,0 +1,14 @@
+edu.ncsu.monopoly.GoToJailCardTest#setUp()V
+aec7ee322d2f31c7a14379e9c353cc77
+edu.ncsu.monopoly.MockGUI#<init>()V
+edu.ncsu.monopoly.GameBoardCCJail#instance-init#
+edu.ncsu.monopoly.MockGUI#instance-init#
+edu.ncsu.monopoly.GameBoardCCJail#<init>()V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setGameBoard edu.ncsu.monopoly.GameMaster#setGameBoard(Ledu/ncsu/monopoly/GameBoard;)V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+setNumberOfPlayers edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+reset edu.ncsu.monopoly.GameMaster#reset()V
+setGUI edu.ncsu.monopoly.GameMaster#setGUI(Ledu/ncsu/monopoly/MonopolyGUI;)V
+addCard edu.ncsu.monopoly.GameBoard#addCard(Ledu/ncsu/monopoly/Card;)V

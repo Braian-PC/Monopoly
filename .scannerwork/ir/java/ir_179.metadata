@@ -1,0 +1,19 @@
+edu.ncsu.monopoly.gui.TestDiceRollDialog#<init>(Ljava/awt/Frame;)V
+fb2b61a6c63dbd3561c2c8d519415c4b
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+javax.swing.JTextField#instance-init#
+java.awt.GridLayout#<init>(II)V
+javax.swing.JTextField#<init>(I)V
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+javax.swing.JLabel#instance-init#
+java.awt.GridLayout#instance-init#
+javax.swing.JButton#instance-init#
+==
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+setModal java.awt.Dialog#setModal(Z)V
+pack java.awt.Window#pack()V
+setTitle java.awt.Dialog#setTitle(Ljava/lang/String;)V
+<init> javax.swing.JDialog#<init>(Ljava/awt/Frame;)V
+setLayout java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V
+addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V
+getContentPane javax.swing.JDialog#getContentPane()Ljava/awt/Container;

@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.GameBoard#getPropertiesInMonopoly(Ljava/lang/String;)[Ledu/ncsu/monopoly/PropertyCell;
+05b7cbd6af1546460a27e7e7c2b36d04
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getCellNumber edu.ncsu.monopoly.GameBoard#getCellNumber()I
+getColorGroup edu.ncsu.monopoly.PropertyCell#getColorGroup()Ljava/lang/String;
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;
+getPropertyNumberForColor edu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)I

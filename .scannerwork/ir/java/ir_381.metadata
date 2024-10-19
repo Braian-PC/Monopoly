@@ -1,0 +1,10 @@
+edu.ncsu.monopoly.GameMaster#setAllButtonEnabled(Z)V
+ab5a352905bb5d18a910ddcbd620032b
+==
+setDrawCardEnabled edu.ncsu.monopoly.MonopolyGUI#setDrawCardEnabled(Z)V
+setEndTurnEnabled edu.ncsu.monopoly.MonopolyGUI#setEndTurnEnabled(Z)V
+setPurchasePropertyEnabled edu.ncsu.monopoly.MonopolyGUI#setPurchasePropertyEnabled(Z)V
+setRollDiceEnabled edu.ncsu.monopoly.MonopolyGUI#setRollDiceEnabled(Z)V
+setGetOutOfJailEnabled edu.ncsu.monopoly.MonopolyGUI#setGetOutOfJailEnabled(Z)V
+setTradeEnabled edu.ncsu.monopoly.MonopolyGUI#setTradeEnabled(IZ)V
+setBuyHouseEnabled edu.ncsu.monopoly.MonopolyGUI#setBuyHouseEnabled(Z)V

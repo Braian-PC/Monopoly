@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.gui.GUICell#createPlayerLabels(Ljavax/swing/JPanel;)V
+63a4a0563ba8d10c997d123c780ab0d6
+javax.swing.JLabel#instance-init#
+javax.swing.JLabel#<init>()V
+==
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+setBackground javax.swing.JComponent#setBackground(Ljava/awt/Color;)V

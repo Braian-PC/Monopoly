@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.RailRoadCell#getRent()I
+f2f35bd8b9ebe69910bdff1a48af646f
+java.lang.Math#pow(DD)D
+==
+numberOfRR edu.ncsu.monopoly.Player#numberOfRR()I

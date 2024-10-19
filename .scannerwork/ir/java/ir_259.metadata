@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#isGetOutOfJailButtonEnabled()Z
+b82171ab7f71f04ef525ca24c6490fc0
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+isGetOutOfJailButtonEnabled edu.ncsu.monopoly.gui.PlayerPanel#isGetOutOfJailButtonEnabled()Z
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I

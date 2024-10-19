@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#isBuyHouseButtonEnabled()Z
+62280682c34f2e328f72ed62f949f460
+==
+isEnabled java.awt.Component#isEnabled()Z

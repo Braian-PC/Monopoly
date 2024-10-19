@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.Player#canBuyHouse()Z
+8a2b023d68ea11fb4928546f2588c138
+==
+getMonopolies edu.ncsu.monopoly.Player#getMonopolies()[Ljava/lang/String;

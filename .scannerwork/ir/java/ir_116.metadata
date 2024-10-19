@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GameBoard#addCard(Ledu/ncsu/monopoly/Card;)V
+3b411433651f4dbcba7584fc8d122d24
+==
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+getCardType edu.ncsu.monopoly.Card#getCardType()I

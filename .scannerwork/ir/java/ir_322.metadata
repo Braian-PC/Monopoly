@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.GameboardTest#testCellsForMonopoly()V
+45a5938392b1dc33deff8040b3526cce
+edu.ncsu.monopoly.SimpleGameBoard#instance-init#
+edu.ncsu.monopoly.SimpleGameBoard#<init>()V
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+getPropertiesInMonopoly edu.ncsu.monopoly.GameBoard#getPropertiesInMonopoly(Ljava/lang/String;)[Ledu/ncsu/monopoly/PropertyCell;

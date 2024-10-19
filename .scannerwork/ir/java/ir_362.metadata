@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.GameMaster#drawChanceCard()Ledu/ncsu/monopoly/Card;
+36a1bde3f3677c1080a008e0b267e908
+==
+drawChanceCard edu.ncsu.monopoly.GameBoard#drawChanceCard()Ledu/ncsu/monopoly/Card;

@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
+d59f5a64ea359570a38b0959ff679f9c
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getName edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;
+get java.util.ArrayList#get(I)Ljava/lang/Object;
+size java.util.ArrayList#size()I

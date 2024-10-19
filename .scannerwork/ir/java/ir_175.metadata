@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.gui.GUICell#displayInfo()V
+49b95ef4a7868cb5c4b55f095910e4f1
+edu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
+==
+setText javax.swing.JLabel#setText(Ljava/lang/String;)V
+invalidate java.awt.Container#invalidate()V
+repaint java.awt.Component#repaint()V

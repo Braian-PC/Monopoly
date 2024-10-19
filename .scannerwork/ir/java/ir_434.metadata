@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.PlayerTest#testExchangeProperty()V
+0fb7727b8475bd6b945ad68cb0c84901
+==
+getPropertyNumber edu.ncsu.monopoly.Player#getPropertyNumber()I
+purchase edu.ncsu.monopoly.Player#purchase()V
+btnEndTurnClicked edu.ncsu.monopoly.GameMaster#btnEndTurnClicked()V
+exchangeProperty edu.ncsu.monopoly.Player#exchangeProperty(Ledu/ncsu/monopoly/Player;)V
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+setNumberOfPlayers edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V

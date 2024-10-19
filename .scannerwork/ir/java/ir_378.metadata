@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.GameMaster#reset()V
+206d754a4a8ebc7fdd0e7e32003845f1
+==
+setPosition edu.ncsu.monopoly.Player#setPosition(Ledu/ncsu/monopoly/Cell;)V
+removeCards edu.ncsu.monopoly.GameBoard#removeCards()V
+getNumberOfPlayers edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()I
+get java.util.ArrayList#get(I)Ljava/lang/Object;
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;

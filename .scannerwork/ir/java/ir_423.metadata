@@ -1,0 +1,7 @@
+edu.ncsu.monopoly.gui.UtilDiceRoll#rollDice()V
+3d9181f10ef8eb6310e2f90384776787
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setText javax.swing.JLabel#setText(Ljava/lang/String;)V
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V
+rollDice edu.ncsu.monopoly.GameMaster#rollDice()[I

@@ -1,0 +1,9 @@
+edu.ncsu.monopoly.gui.MainWindow#queryCell(I)Ledu/ncsu/monopoly/gui/GUICell;
+e1cd1ad6772d300167a2495726231436
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+get java.util.ArrayList#get(I)Ljava/lang/Object;
+getCell edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;
+getCell edu.ncsu.monopoly.gui.GUICell#getCell()Ledu/ncsu/monopoly/Cell;
+size java.util.ArrayList#size()I

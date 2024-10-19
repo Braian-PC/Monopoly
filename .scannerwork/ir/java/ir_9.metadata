@@ -1,0 +1,11 @@
+edu.ncsu.monopoly.TradeDealTest#testMakeMessage()V
+c26ef8e0533251abca21008107bca9c6
+edu.ncsu.monopoly.TradeDeal#instance-init#
+edu.ncsu.monopoly.TradeDeal#<init>()V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+makeMessage edu.ncsu.monopoly.TradeDeal#makeMessage()Ljava/lang/String;
+setAmount edu.ncsu.monopoly.TradeDeal#setAmount(I)V
+setPropertyName edu.ncsu.monopoly.TradeDeal#setPropertyName(Ljava/lang/String;)V
+setSellerIndex edu.ncsu.monopoly.TradeDeal#setSellerIndex(I)V
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;

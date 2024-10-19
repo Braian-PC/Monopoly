@@ -1,0 +1,16 @@
+edu.ncsu.monopoly.GameMaster#btnGetOutOfJailClicked()V
+e5604935502873a7668acf22cb963ec9
+==
+setDrawCardEnabled edu.ncsu.monopoly.MonopolyGUI#setDrawCardEnabled(Z)V
+isBankrupt edu.ncsu.monopoly.Player#isBankrupt()Z
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I
+setTradeEnabled edu.ncsu.monopoly.MonopolyGUI#setTradeEnabled(IZ)V
+isInJail edu.ncsu.monopoly.Player#isInJail()Z
+setEndTurnEnabled edu.ncsu.monopoly.MonopolyGUI#setEndTurnEnabled(Z)V
+setPurchasePropertyEnabled edu.ncsu.monopoly.MonopolyGUI#setPurchasePropertyEnabled(Z)V
+setRollDiceEnabled edu.ncsu.monopoly.MonopolyGUI#setRollDiceEnabled(Z)V
+setGetOutOfJailEnabled edu.ncsu.monopoly.MonopolyGUI#setGetOutOfJailEnabled(Z)V
+canBuyHouse edu.ncsu.monopoly.Player#canBuyHouse()Z
+getOutOfJail edu.ncsu.monopoly.Player#getOutOfJail()V
+setBuyHouseEnabled edu.ncsu.monopoly.MonopolyGUI#setBuyHouseEnabled(Z)V

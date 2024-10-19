@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.GameBoard#drawChanceCard()Ledu/ncsu/monopoly/Card;
+1341e8abbcd2941ff761ede076a5fdf1
+==
+get java.util.ArrayList#get(I)Ljava/lang/Object;
+remove java.util.ArrayList#remove(I)Ljava/lang/Object;
+addCard edu.ncsu.monopoly.GameBoard#addCard(Ledu/ncsu/monopoly/Card;)V

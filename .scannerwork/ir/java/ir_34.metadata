@@ -1,0 +1,16 @@
+edu.ncsu.monopoly.GameMasterTest#setUp()V
+0047b19b8a84e0207454ce0b5323c4d2
+edu.ncsu.monopoly.MockGUI#<init>()V
+edu.ncsu.monopoly.GameBoardFull#<init>()V
+edu.ncsu.monopoly.GameBoardFull#instance-init#
+edu.ncsu.monopoly.MockGUI#instance-init#
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setTestMode edu.ncsu.monopoly.GameMaster#setTestMode(Z)V
+startGame edu.ncsu.monopoly.GameMaster#startGame()V
+setName edu.ncsu.monopoly.Player#setName(Ljava/lang/String;)V
+setGameBoard edu.ncsu.monopoly.GameMaster#setGameBoard(Ledu/ncsu/monopoly/GameBoard;)V
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+setNumberOfPlayers edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+reset edu.ncsu.monopoly.GameMaster#reset()V
+setGUI edu.ncsu.monopoly.GameMaster#setGUI(Ledu/ncsu/monopoly/MonopolyGUI;)V

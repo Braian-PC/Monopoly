@@ -1,0 +1,15 @@
+edu.ncsu.monopoly.GameMaster#btnRollDiceClicked()V
+90dcfbe3a85e1b9cda92972c6ad0624b
+java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;
+java.lang.StringBuffer#<init>()V
+java.lang.StringBuffer#toString()Ljava/lang/String;
+java.lang.StringBuffer#instance-init#
+java.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;
+==
+getName edu.ncsu.monopoly.Player#getName()Ljava/lang/String;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(Ledu/ncsu/monopoly/Player;I)V
+setRollDiceEnabled edu.ncsu.monopoly.MonopolyGUI#setRollDiceEnabled(Z)V
+getCurrentPlayer edu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;
+rollDice edu.ncsu.monopoly.GameMaster#rollDice()[I
+showMessage edu.ncsu.monopoly.MonopolyGUI#showMessage(Ljava/lang/String;)V
+setBuyHouseEnabled edu.ncsu.monopoly.MonopolyGUI#setBuyHouseEnabled(Z)V

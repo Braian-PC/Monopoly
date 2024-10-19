@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GameMaster#rollDice()[I
+8da92d8ab4b5419bf9f18b2f861d45ed
+==
+getDiceRoll edu.ncsu.monopoly.MonopolyGUI#getDiceRoll()[I
+getRoll edu.ncsu.monopoly.Die#getRoll()I

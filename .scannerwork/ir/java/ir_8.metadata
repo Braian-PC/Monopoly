@@ -1,0 +1,8 @@
+edu.ncsu.monopoly.TradeDealTest#setUp()V
+e3a999a5b36d5548ca690d05fe65e90f
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setName edu.ncsu.monopoly.Player#setName(Ljava/lang/String;)V
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+setNumberOfPlayers edu.ncsu.monopoly.GameMaster#setNumberOfPlayers(I)V
+reset edu.ncsu.monopoly.GameMaster#reset()V

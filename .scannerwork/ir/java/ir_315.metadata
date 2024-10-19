@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#setPurchasePropertyEnabled(Z)V
+4b8b038c090a166b3aac90b51b41283b
+==
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V

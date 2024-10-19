@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.GoToJailCardTest#testJailCardLabel()V
+6bd3074a65bcca0834e325a26bd499e2
+==
+getLabel edu.ncsu.monopoly.Card#getLabel()Ljava/lang/String;

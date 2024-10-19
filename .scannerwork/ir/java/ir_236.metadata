@@ -1,0 +1,10 @@
+edu.ncsu.monopoly.UtilityCellTest#testPurchaseUtility()V
+0bfd0c6cb221d21c67a64e0c91030b70
+==
+getMoney edu.ncsu.monopoly.Player#getMoney()I
+queryCellIndex edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)I
+purchase edu.ncsu.monopoly.Player#purchase()V
+getGameBoard edu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;
+numberOfUtil edu.ncsu.monopoly.Player#numberOfUtil()I
+getPlayer edu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;
+movePlayer edu.ncsu.monopoly.GameMaster#movePlayer(II)V

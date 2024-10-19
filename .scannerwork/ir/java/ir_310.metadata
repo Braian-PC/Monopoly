@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#isTradeButtonEnabled()Z
+774f7fce8ef5e8685f916e120ea8d59d
+==
+isEnabled java.awt.Component#isEnabled()Z

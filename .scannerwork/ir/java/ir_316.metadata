@@ -1,0 +1,4 @@
+edu.ncsu.monopoly.gui.PlayerPanel#setRollDiceEnabled(Z)V
+3618267aedb17c2c9ab3ca07da594d9a
+==
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V

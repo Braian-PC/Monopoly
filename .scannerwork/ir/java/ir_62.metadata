@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.Player#payRentTo(Ledu/ncsu/monopoly/Player;I)V
+7582d3c1d869cf4e6b4569a17a4ed849
+==
+isBankrupt edu.ncsu.monopoly.Player#isBankrupt()Z
+exchangeProperty edu.ncsu.monopoly.Player#exchangeProperty(Ledu/ncsu/monopoly/Player;)V

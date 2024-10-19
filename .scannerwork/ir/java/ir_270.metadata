@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.gui.MainWindow#setRollDiceEnabled(Z)V
+b32ead81ab1294dbbdb3a41e022444b5
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;
+==
+setRollDiceEnabled edu.ncsu.monopoly.gui.PlayerPanel#setRollDiceEnabled(Z)V
+getCurrentPlayerIndex edu.ncsu.monopoly.GameMaster#getCurrentPlayerIndex()I
